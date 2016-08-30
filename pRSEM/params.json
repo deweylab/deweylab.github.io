@@ -1,7 +1,0 @@
-{
-  "name": "Prior-enhanced RSEM",
-  "tagline": "",
-  "body": "### Updates\r\n- Jun 27, 2016 pRSEM web page is created.\r\n\r\n### Source Code\r\n- [pRSEM GtiHub repository](https://github.com/pliu55/RSEM/tree/pRSEM)\r\n\r\n### Documentation\r\n- [Tutorial](https://github.com/pliu55/pRSEM_demo)\r\n\r\n### Authors\r\nPeng Liu, Rajendran Sanalkumar, Emery H. Bresnick, Sunduz Keles, and Colin N. Dewey. Integrative analysis with ChIP-seq advances the limits of transcript quantification from RNA-seq. Genome Research. Accepted\r\n\r\n### Support or Contact\r\nPlease post your question at [RSEM Users group](https://groups.google.com/forum/#!forum/rsem-users) with the keyword __pRSEM__ in the title.  \r\n\r\n## License\r\nThis demo is licensed under the [GNU General Public License v3](http://www.gnu.org/licenses/gpl-3.0.html).",
-  "google": "UA-26662583-1",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
